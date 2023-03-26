@@ -252,7 +252,7 @@
       "type": "framework",
       "optional": true,
       "owner": "platformio",
-      "version": "~1.16.0"
+      "version": "https://github.com/fspijkerman/platform-ststm32.git"
     },
     "framework-stm32cubeg0": {
       "type": "framework",
